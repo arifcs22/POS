@@ -7,6 +7,6 @@
 
 <body>
 
-<h1>First line in the project</h1>
+<h1>First line in the</h1>
 </body>
 </html>
